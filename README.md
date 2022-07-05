@@ -1,4 +1,4 @@
-## Power BI Dashboards
+## Power BI Dashboards & Tables
 
 ### General information
 
